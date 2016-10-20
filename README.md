@@ -24,10 +24,10 @@ The Website Project.
         * Society information
     * Possibly Wiki.
 
-* Front end
+* [Frontend](frontend.md)
     * Mobile Integration
 
-* Project.
+* [Project](project)
     * Documentaton
     * Contiuous Development & update
 
