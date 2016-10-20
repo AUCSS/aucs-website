@@ -2,7 +2,7 @@
 
 # Resources
 
-* [w3schools](https://www.w3schools.com/) - HTML and CSS 
+* [w3schools](http://www.w3schools.com/) - HTML and CSS 
 
 # Interesting Websites
 

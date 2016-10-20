@@ -15,14 +15,14 @@ The Website Project.
 
 # Modules
 
-* Web Server Backend
+* [Web Server Backend](backend.md) 
     * Web Server 
         * HTTPS - Lets-Encrypt
     * Server Side Scripting Language
     * DB 
         * Events
         * Society information
-        * Possibly Wiki.
+    * Possibly Wiki.
 
 * Front end
     * Mobile Integration
@@ -39,5 +39,9 @@ The Domain is controlled by Iain Learmonth,
 One task is to wipe the server and reinstall the base operating system, we need access to the location of the server in buchart.
 
 From here we will add a VM for the website in the same way add Lets-Encrypt to the server to enable secure HTTPS access.
+
+# Server side 
+
+* [DB](DB.md) - The database 
 
 
