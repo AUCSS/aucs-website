@@ -31,7 +31,7 @@ The Website Project.
     * Documentaton
     * Contiuous Development & update
 
-# Web Sever.
+# Web Server.
 
 The only thing running on the Hopper is the WebServer, which is a VM running on Turing, 
 The Domain is controlled by Iain Learmonth,
